@@ -671,6 +671,7 @@ list-style-type: none;
     display: inline-block;
     padding: 10px 116px;
     margin-top: -100px;
+    margin-bottom: 60px;
   }
 
   .footer{
