@@ -582,9 +582,15 @@ list-style-type: none;
      margin-top: 40px;
      display: block;
    }
+    
+   
+.download-extension_box-card{
+  margin-left: 20px;
+  }
+  
 
    .extension_box-card-position1 {
-    margin-left: 30px;
+    margin-left: 20px;
   }
 
   .extension_box-card-position2{
