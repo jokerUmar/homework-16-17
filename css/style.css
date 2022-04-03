@@ -7,7 +7,9 @@
   font-family: 'Rubik';
 }
 
-
+.box{
+  overflow: hidden;
+}
 
 .container{
   width: 1200px;
