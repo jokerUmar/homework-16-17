@@ -435,7 +435,7 @@ list-style-type: none;
   }
 
   .container{
-    max-width: 311px;
+    max-width: 345px;
     margin: 0 auto;
   }
 
@@ -464,7 +464,7 @@ list-style-type: none;
   }
 
   .main-img_upper,.main-img_upper1{
-    width: 311px;
+    width: 345px;
     left: 100px;
     top: 20px;
   }
@@ -480,14 +480,14 @@ list-style-type: none;
   }  
 
   .main-title{
-    width: 311px;
+    width: 345px;
     line-height: 40px;
     font-size: 30px;
     margin-bottom: 16px;
   }
 
   .main-text{
-    width: 311px;
+    width: 345px;
     font-size: 15px;
     text-align: center;
   }
@@ -506,19 +506,19 @@ list-style-type: none;
   }
 
   .feature_data-title{
-    width: 311px;
+    width: 345px;
     font-size: 24px;
   }
   
   .feature_data-text{
-    width: 311px;
+    width: 345px;
     opacity: 0.5;
     font-weight: 400;
     font-size: 15px;    
   }
   
   .features-flexbox{
-    width: 311px;
+    width: 345px;
     display: flex;
     flex-direction: column;
     text-align: center;
@@ -553,7 +553,7 @@ display: none;
   
 
   .block-section{
-    width: 311px;
+    width: 345px;
     margin: 0 auto;
     margin-bottom: 140px;
   }
@@ -567,23 +567,23 @@ display: none;
   }
 
   .Download-extension{
-    width: 311px;
+    width: 345px;
     margin: 0 auto;
   }
 
   .download-extension_title{
-    width: 311px;
+    width: 345px;
     font-size: 24px;
   } 
 
    .download-extension_text{
-      width: 311px;
+      width: 345px;
       font-size: 15px;
       line-height: 25px;
    }
 
    .download-extension_box{
-     width: 311px;
+     width: 345px;
      margin-top: 40px;
      display: block;
    }
@@ -592,8 +592,6 @@ display: none;
 .download-extension_box-card{
   margin-left: 20px;
   }
-  
-
    .extension_box-card-position1 {
     margin-left: 20px;
   }
@@ -609,22 +607,22 @@ display: none;
   }
   
   .question{
-    width: 311px;
+    width: 345px;
     margin: 0 auto;
   }
 
   .question-title{
-    width: 311px;  
+    width: 345px;  
   }
 
   .question-text{
-    width: 311px;
+    width: 345px;
     font-size: 15px;
     line-height: 25px;
   }
 
   .question-list{
-    width: 311px;
+    width: 345px;
     margin: 0 auto;
   }
 
@@ -653,7 +651,7 @@ display: none;
 }
 
   .join-box{
-   width: 311px;
+   width: 345px;
    margin: 0 auto;
   }
 
@@ -663,13 +661,12 @@ display: none;
   }
 
   .join-title{
-    width: 311px;
+    width: 345px;
     font-size: 24px;
   }
 
   .join-form_email{
     margin: 0px 0px 26px 0px;
- 
   }
 
   .join-form_submit{
@@ -686,7 +683,7 @@ display: none;
   
   .footer-list{
     display: block;
-    width: 311px;
+    width: 345px;
   }
 
   .footer-list_item{
@@ -710,7 +707,4 @@ display: none;
     margin-left: 16px;
   }
 
-
 }
-
-
