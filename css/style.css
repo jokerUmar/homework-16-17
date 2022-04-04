@@ -546,6 +546,12 @@ list-style-type: none;
     margin-bottom: 16px;
   }
   
+  
+.features-flexbox_card:hover::after{
+display: none;
+}
+  
+
   .block-section{
     width: 311px;
     margin: 0 auto;
