@@ -622,7 +622,7 @@ display: none;
   }
 
   .question-list{
-    width: 345px;
+    max-width: 311px;
     margin: 0 auto;
   }
 
@@ -639,7 +639,7 @@ display: none;
   }
   
   .question-link-info{
-    width: 114px;
+    min-width: 114px;
     margin-left: 100px;
     padding: 10px 24px;
     font-size: 15px;
